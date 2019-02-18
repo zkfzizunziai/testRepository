@@ -4,4 +4,6 @@ public interface TestInterface {
 	void m();
 	void m2();
 	void m42();
+	void m43();
+	void m4();
 }
